@@ -9,6 +9,4 @@
 <br><br>
 Expertise in UI/UX design enables the creation of intuitive and engaging digital experiences. A firm belief that successful digital products are as much about thoughtful design as well as well-written code. Always eager to learn more and face new challenges in the technology industry.</center>
 <br><br>
-<h2 align="center">🌐 Socials:</h2>
-<h1 align="center">
 
