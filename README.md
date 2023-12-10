@@ -12,9 +12,9 @@
 
 <br>
 </div>
-<center>Currently studying at Alauddin Makassar State Islamic University for a Bachelor's degree in Information Systems. Passionate about technology and design, leading to a journey in creative web development and UI/UX design. Enjoy the challenge of coding complex functionality and bringing designs to life.
+<p align="center"> Hello! I am currently pursuing a Bachelor's degree in Information Systems at Alauddin Makassar State Islamic University. My academic journey revolves around my passion for technology and design, with a particular focus on the exciting realm of creative web development and UI/UX design. I find joy in tackling the challenges of coding complex functionalities and translating designs into vibrant, functional experiences.</p>
 <br><br>
-</center>
+
 
 
 
