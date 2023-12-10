@@ -5,8 +5,23 @@
 </h1>
 
 <h1 align="center">👋 Welcome!</h1>
+<div align="center">
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js)](https://skillicons.dev)
+
+<br>
+</div>
 <center>Currently studying at Alauddin Makassar State Islamic University for a Bachelor's degree in Information Systems. Passionate about technology and design, leading to a journey in creative web development and UI/UX design. Enjoy the challenge of coding complex functionality and bringing designs to life.
 <br><br>
-Expertise in UI/UX design enables the creation of intuitive and engaging digital experiences. A firm belief that successful digital products are as much about thoughtful design as well as well-written code. Always eager to learn more and face new challenges in the technology industry.</center>
-<br><br>
+</center>
+<div align="center">
+  <div style="display: flex; align-items:center;" >
+    <img src="https://github-contribution-stats.vercel.app/api/?username=AsrulHidayat" />
+  </div>
+</div>
+
+
+
+
 
