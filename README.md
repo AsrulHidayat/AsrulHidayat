@@ -7,7 +7,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsrulHidayat&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,github,java,kotlin,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,github,kotlin,php,java)](https://skillicons.dev)
 
 </h1>
 <h1 align="center">👋 Welcome! </h1>
