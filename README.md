@@ -15,11 +15,7 @@
 <center>Currently studying at Alauddin Makassar State Islamic University for a Bachelor's degree in Information Systems. Passionate about technology and design, leading to a journey in creative web development and UI/UX design. Enjoy the challenge of coding complex functionality and bringing designs to life.
 <br><br>
 </center>
-<div align="center">
-  <div style="display: flex; align-items:center;" >
-    <img src="https://github-contribution-stats.vercel.app/api/?username=AsrulHidayat" />
-  </div>
-</div>
+
 
 
 
