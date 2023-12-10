@@ -5,7 +5,7 @@
 </h1>
 <h1 align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,kotlin,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,github,kotlin,php)](https://skillicons.dev)
 
 </h1>
 <h1 align="center">👋 Welcome! </h1>
