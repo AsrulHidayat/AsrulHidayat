@@ -15,10 +15,6 @@
 Hey there! I'm currently on the journey to snag a degree in Information Systems at Alauddin Makassar State Islamic University. I'm all about the fun stuff playing with tech, crafting cool designs, and diving into the creative world of web development and UI/UX design. I get a kick out of solving tricky coding puzzles and making designs come to life. Let's enjoy the ride! 🚀
 <br>
 
-
-
-#### 🌐 Follow My Social Media<br>
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ashiduix/) [![Twitter](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asrul-hidayat-867230292/)
 
 
