@@ -5,7 +5,7 @@
 </h1>
 <h1 align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,github,kotlin,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,github,java,kotlin,php)](https://skillicons.dev)
 
 </h1>
 <h1 align="center">👋 Welcome! </h1>
@@ -15,7 +15,12 @@ Hey there! I'm currently on the journey to snag a degree in Information Systems 
 
 
 
+#### 🌐 Follow My Social Media<br>
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ashiduix/) [![Twitter](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asrul-hidayat-867230292/)
+
+#### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsrulHidayat&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
