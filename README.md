@@ -21,7 +21,7 @@ Hey there! I'm currently on the journey to snag a degree in Information Systems 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsrulHidayat&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![My Skills](https://skillicons.dev/icons?i=js,kotlin,php,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,kotlin,php,java,mysql,gradle)](https://skillicons.dev)
 
 </h1>
 
