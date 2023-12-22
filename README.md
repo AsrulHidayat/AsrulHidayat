@@ -19,11 +19,11 @@ Hey there! I'm currently on the journey to snag a degree in Information Systems 
 
 <h1 align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,github)](https://skillicons.dev)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsrulHidayat&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![My Skills](https://skillicons.dev/icons?i=js,kotlin,php,java,mysql,gradle)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,php,java,mysql,gradle)](https://skillicons.dev)
 
 </h1>
 
