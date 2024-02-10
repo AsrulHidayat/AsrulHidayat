@@ -17,7 +17,7 @@ Hey there! I'm currently on the journey to snag a degree in Information Systems 
 
 </h1>
 
-<h1 align="left">
+<h1 align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,github)](https://skillicons.dev)
 
