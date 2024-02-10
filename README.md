@@ -4,12 +4,12 @@
 
 </h1>
 
-<h1 align="center">👋 Welcome! </h1>
+<h1 align="left">👋 Welcome! </h1>
 
 Hey there! I'm currently on the journey to snag a degree in Information Systems at Alauddin Makassar State Islamic University. I'm all about the fun stuff playing with tech, crafting cool designs, and diving into the creative world of web development and UI/UX design. I get a kick out of solving tricky coding puzzles and making designs come to life. Let's enjoy the ride! 🚀
 <br>
 
-<h1 align="center"> 
+<h1 align="left"> 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ashid.uix/) [![Twitter](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asrul-hidayat-867230292/)
 
@@ -17,7 +17,7 @@ Hey there! I'm currently on the journey to snag a degree in Information Systems 
 
 </h1>
 
-<h1 align="center">
+<h1 align="left">
 
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,github)](https://skillicons.dev)
 
