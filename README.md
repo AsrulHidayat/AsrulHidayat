@@ -26,3 +26,9 @@ Hey there! I'm currently on the journey to snag a degree in Information Systems 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,php,java,mysql,gradle,dart)](https://skillicons.dev)
 
 </h1>
+
+<h1 align="center">
+  <a href="https://github.com/AsrulHidayat" >
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsrulHidayat&theme=monokai" alt="profile summary card" />
+  </a>
+</h1>
