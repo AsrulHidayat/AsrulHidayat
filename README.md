@@ -1,5 +1,5 @@
 <h1 align="center">
-
+  
 ![readmebox](https://github.com/AsrulHidayat/AsrulHidayat/assets/136725199/e01fff48-6a4b-40e8-a048-dd3d8b448917)
 
 </h1>
@@ -32,3 +32,11 @@ Hey there! I'm currently on the journey to snag a degree in Information Systems 
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsrulHidayat&theme=monokai" alt="profile summary card" />
   </a>
 </h1>
+
+<h1 align="center">
+
+![image](https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif)
+
+</h1>
+
+
