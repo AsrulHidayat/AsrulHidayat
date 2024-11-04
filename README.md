@@ -40,13 +40,18 @@
 </h1>
 
 <h1 align="center">
-  <a href="https://github.com/AsrulHidayat" >
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsrulHidayat&theme=monokai" alt="profile summary card" />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" alt="Animated GIF" width="250">
+      </td>
+      <td>
+      <a href="https://github.com/AsrulHidayat" >
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsrulHidayat&theme=monokai" alt="profile summary card" />
+        </a>
+      </td>
+    </tr>
+        </table>
+  
 </h1>
 
-<h1 align="center">
-
-![image](https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif)
-
-</h1>
