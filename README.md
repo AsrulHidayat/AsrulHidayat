@@ -33,7 +33,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,github,idea,androidstudio,visualstudio)](https://skillicons.dev)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsrulHidayat&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+   <img src="https://github-readme-stats.vercel.app/api?username=AsrulHidayat&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="height: 200px; object-fit: cover;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsrulHidayat&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 200px; object-fit: cover;">
+  </div>
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,php,java,mysql,gradle,dart,flutter,cpp)](https://skillicons.dev)
 
@@ -43,11 +46,11 @@
   <table>
     <tr>
       <td>
-        <img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" alt="Animated GIF" width="250">
+        <img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" alt="Animated GIF" height="180px">
       </td>
       <td>
       <a href="https://github.com/AsrulHidayat" >
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsrulHidayat&theme=monokai" alt="profile summary card" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsrulHidayat&theme=tokyonight" alt="profile summary card"  />
         </a>
       </td>
     </tr>
