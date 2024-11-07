@@ -34,8 +34,8 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,github,idea,androidstudio,visualstudio)](https://skillicons.dev)
 
  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-   <img src="https://github-readme-stats.vercel.app/api?username=AsrulHidayat&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="height: 200px; object-fit: cover;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsrulHidayat&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 200px; object-fit: cover;">
+   <img src="https://github-readme-stats.vercel.app/api?username=AsrulHidayat&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="height: 150px; object-fit: cover;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsrulHidayat&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 150px; object-fit: cover;">
   </div>
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,php,java,mysql,gradle,dart,flutter,cpp)](https://skillicons.dev)
