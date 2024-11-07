@@ -31,11 +31,11 @@
 
 <h1 align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,github,idea,androidstudio,visualstudio)](https://skillicons.dev)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsrulHidayat&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,php,java,mysql,gradle,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,php,java,mysql,gradle,dart,cpp)](https://skillicons.dev)
 
 </h1>
 
