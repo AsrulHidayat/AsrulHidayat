@@ -37,7 +37,7 @@
 
 <h1 align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,github,idea,androidstudio,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,js,css,html,github,idea,visualstudio,androidstudio)](https://skillicons.dev)
 
  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
    <img src="https://github-readme-stats.vercel.app/api?username=AsrulHidayat&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="height: 180px; object-fit: cover;">
