@@ -44,7 +44,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AsrulHidayat&theme=tokyonight" alt="Top Languages" style="height: 180px; object-fit: cover;">
   </div>
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,php,java,mysql,gradle,dart,flutter,cpp,expressjs,astro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,php,java,mysql,gradle,dart,flutter,cpp,expressjs,astro,firebase)](https://skillicons.dev)
 
 </h1>
 
