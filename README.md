@@ -37,7 +37,7 @@
 
 <h1 align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=figma,js,css,html,github,vscode,androidstudio,idea,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,js,css,html,github,vscode,androidstudio,idea,react,nodejs,notion)](https://skillicons.dev)
 
  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsrulHidayat&theme=tokyonight" alt="GitHub Stats" style="height: 180px; object-fit: cover;">
