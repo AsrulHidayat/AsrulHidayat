@@ -37,14 +37,14 @@
 
 <h1 align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=figma,js,css,html,github,vscode,androidstudio,idea,react,nodejs,vite,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,arduino,vscode,github,figma,androidstudio,idea,react,nodejs,vite,notion)](https://skillicons.dev)
 
  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsrulHidayat&theme=tokyonight" alt="GitHub Stats" style="height: 180px; object-fit: cover;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AsrulHidayat&theme=tokyonight" alt="Top Languages" style="height: 180px; object-fit: cover;">
   </div>
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,php,java,mysql,gradle,dart,flutter,cpp,expressjs,astro,firebase,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro,mysql,kotlin,php,java,gradle,dart,flutter,expressjs,firebase,python,cpp)](https://skillicons.dev)
 
 </h1>
 
